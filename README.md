@@ -1,6 +1,7 @@
 # Machine Learning for Economic Analysis
-University of Zurich
-Fall 2020
+University of Zurich  
+Fall 2020  
+Josia Schellenberg, Kevin Hardegger
 
 1. Project:  
 Designing ensemble machine learning model based on hyptertuned Random Forest to predict log household income, in order to replicate the paper of Hanna & Olken (2018)  
